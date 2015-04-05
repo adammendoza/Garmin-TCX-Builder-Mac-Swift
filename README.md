@@ -3,6 +3,8 @@ This is a utility program to create your .tcx file from a Garmin GPS when the un
 
 Get the binary from the releases section of this repo.
 
+Note: Swift requires OS X version 10.9 or higher. 
+
 https://github.com/adammendoza/Garmin-TCX-Builder-Mac-Swift/releases/tag/v1.0
 
 ![Screenshot](https://raw.github.com/adammendoza/Garmin-TCX-Builder-Mac-Swift/master/img/Garmin-TCX-Builder-screenshot-01.png)
